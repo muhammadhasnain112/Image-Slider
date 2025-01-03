@@ -7,4 +7,4 @@ function abc() {
     
 }
 
-setInterval(abc, 1000)
+setInterval(abc, 3000)
